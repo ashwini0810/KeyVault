@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3HzvamkTY8RQfXKPOxoU9x5x0Z/Jty7bIyslq/2Quiw=",
+  "Source": "AzureKeyVaultWebApp",
+  "BasePath": "_content/AzureKeyVaultWebApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
